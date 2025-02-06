@@ -1,2 +1,1 @@
-print('Hello World')
-print('Alteração feita no GitHub')
+a = 5
